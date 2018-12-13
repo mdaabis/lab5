@@ -1,2 +1,1 @@
-# lab5
-Lazy evaluation
+# Lab 5: Lazy evaluation
